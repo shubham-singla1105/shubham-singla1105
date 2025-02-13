@@ -35,10 +35,9 @@
 
 ## Coding Profile:
 
-<a href="https://www.naukri.com/code360/profile/a6457ca1-4e92-4209-ab7a-91e8f39c7269">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)<a/>
-<a href="https://www.geeksforgeeks.org/user/shailsharma/">![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)<a/>
-<a href="https://www.kaggle.com/shail2604">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
-<a href="https://leetcode.com/u/shail020604/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
+<a href="https://www.geeksforgeeks.org/user/shubhamsingla6214/">![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)<a/>
+<a href="https://www.kaggle.com/singla3846shubham">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
+<a href="https://leetcode.com/u/SHUBHAM_SINGLA_1105/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
 
 
 ## GitHub Stats:
@@ -53,13 +52,7 @@
 
 ## Get Connected With Me:
 
-<a href="https://www.linkedin.com/in/shail-sharma-607175250/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-<a href="https://www.instagram.com/shail_sharma_2604/">![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a/>
-<a href="https://discord.com/users/826749398645604352">![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<a/>
-<a href="https://twitter.com/shail020604">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
-<a href="https://open.spotify.com/user/31aj3pfkjgfocnwidnhs5hepcrfe?si=7lMZtkM2QK6YxtP1QQUJpg">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
-<a href="https://signal.me/#eu/k97H4FglQMDmaATj3ZgwkIJnDmeUDN4hI3L5gWp06gwYQMHyaCNBhb0SnHLzuuiQ">![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)</a>
-<a href="https://t.me/Shailsharma2604">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+<a href="https://www.linkedin.com/in/shubham-singla-361440257/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
 
 [Visual Studio Code]: https://code.visualstudio.com/download
 [Git]: https://git-scm.com/downloads
